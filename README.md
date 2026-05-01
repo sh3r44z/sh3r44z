@@ -46,7 +46,6 @@ auth             Authentik (self-hosted SSO)
 
 I'm based in **Johannesburg, ZA** and open to junior DevOps, Cloud Engineer, SRE roles... pretty much anything IT related lmao — Joburg-based, remote SA, or remote international.
 
-When I'm not in a terminal I'm probably playing chess (and losing to engines), making or listening to music, grinding a video game, or appreciating good art. Sometimes all four in the same evening.
 
 I think the best engineers are the ones who are genuinely curious — not just about the tech, but about *why* things work the way they do. That's the energy I bring.
 
