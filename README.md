@@ -1,7 +1,7 @@
 Hi, I'm Sheraaz Kader
 =
 
-I hold an **AWS Developer Associate** certification and I'm actively transitioning into DevOps / Cloud / SRE roles. Everything in my repos is something I actually built and run.
+I hold an **AWS Developer Associate** certification and I'm actively transitioning into DevOps / Cloud / SRE roles. Everything in my repos is something I have built and currently run.
 
 ---
 
